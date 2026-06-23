@@ -6,7 +6,7 @@ NammaAI is an AI-powered citizen platform designed to bridge the gap between peo
 
 The platform uses Artificial Intelligence to understand citizen needs, guide users through government schemes, answer queries in multiple languages, track service requests, and deliver personalized recommendations based on individual requirements. By bringing various government departments and public services into a single digital ecosystem, NammaAI aims to make governance more transparent, efficient, and citizen-centric.
 
-<H3>Vision<</H3>
+<H3>VISION</H3>
 
 To create a smarter, more connected society where every citizen can easily access government services and information through AI-driven assistance.
 
